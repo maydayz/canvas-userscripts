@@ -2,7 +2,7 @@
 // @name         Export Rubric Scores
 // @namespace    https://github.com/UCBoulder
 // @description  Export all rubric criteria scores for an assignment to a CSV
-// @match        https://*/courses/*/gradebook/speed_grader?*
+// @match        https://canvas.maastrichtuniversity.nl/courses/21894/gradebook/speed_grader?assignment_id=107985&student_id=83734
 // @grant        none
 // @run-at       document-idle
 // @version      1.2.4
